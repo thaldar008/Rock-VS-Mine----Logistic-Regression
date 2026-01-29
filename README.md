@@ -58,8 +58,7 @@ Identifying underwater objects accurately is critical for marine navigation and 
 
 The trained model achieves strong accuracy on both training and test datasets.
 
-*(Accuracy on training data:  0.8342245989304813
-Accuracy on training data:  0.8342245989304813
+*(Accuracy on training data:  0.8342245989304813 & Accuracy on training data:  0.8342245989304813
 Classification Report:
 
               precision    recall  f1-score   support
